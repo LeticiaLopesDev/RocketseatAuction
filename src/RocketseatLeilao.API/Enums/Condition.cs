@@ -1,4 +1,6 @@
-﻿namespace RocketseatAuction.API.Enums;
+﻿using System.ComponentModel;
+
+namespace RocketseatAuction.API.Enums;
 
 public enum Condition
 {
